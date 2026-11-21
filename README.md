@@ -6,27 +6,38 @@ I believe in keeping things simple, practical, and user-focused.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 📱 Hisab — Personal Finance Manager
+### 💰 [Hisab — Personal Finance Manager](https://github.com/alindodhar/Hisab-App)
 
 A simple and smooth Android application designed to help manage everyday finances.
 
-**Highlights:**
-- Transaction management
-- Personal notes and checklists
+**Key Features**
+- Transaction and wallet management
 - Dena-Paona ledger
-- Wallet and budget management
-- Savings goals and reminders
+- Budget and savings goals
+- Personal notes and checklists
 - Spend recap and financial insights
 
-🔗 **Repository:** [Hisab-App](https://github.com/alindodhar/Hisab-App)
+### 🎓 [EduCore PRO — Offline Study Hub](https://github.com/alindodhar/EduCore-Pro)
+
+A personal study hub designed to make learning, revision, and academic planning easier.
+
+**Key Features**
+- Study dashboard and exam countdown
+- Focus timer with custom sessions
+- Syllabus and chapter tracker
+- Smart flashcards and quiz mode
+- Mistakes notebook
+- Calculator, Scratchpad and GPA Calculator
+- Offline ambient sound synthesizer
+- JSON backup and restore
 
 ---
 
 ## 🎯 What I'm Focused On
 
-- Building useful applications
+- Building useful digital products
 - Improving software development skills
 - Exploring new ideas and technologies
 - Creating clean and user-friendly experiences
@@ -35,7 +46,7 @@ A simple and smooth Android application designed to help manage everyday finance
 
 ## 📌 Currently Building
 
-**Hisab** — Making personal finance management simpler.
+**EduCore PRO & Hisab** — Building practical tools for everyday life.
 
 ---
 
@@ -46,3 +57,4 @@ A simple and smooth Android application designed to help manage everyday finance
 ---
 
 <sub>Independent Developer • Building, Learning & Improving.</sub>
+
